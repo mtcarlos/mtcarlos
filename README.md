@@ -1,16 +1,13 @@
-## Hi there 👋
+## About me
 
-<!--
-**mtcarlos/mtcarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm a Telecommunications Engineer specialized in Image and Sound with a passion for technology, software, and interactive experiences.  
+I like creating projects that combine development, multimedia, real-time communication, and immersive environments.  
+Always learning and looking for new ways to build useful and engaging digital products.
 
-Here are some ideas to get you started:
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mtcarlos.github.io/MyPortfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-malagon-tenorio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mtcarlos&theme=gotham&card_width=497)](https://git.io/streak-stats)
