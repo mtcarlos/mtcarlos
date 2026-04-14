@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="gif_batman.gif" alt="Batman coding" width="100%">
+  <img src="gif_batman.gif" alt="Batman coding" width="85%">
 </p>
 
 <h1 align="center">Hi, I'm Carlos</h1>
@@ -31,7 +31,16 @@ My goal is to build technology that is both functional and meaningful.
 
 ## Tech Stack
 
- `Python` `JavaScript` `Django` `A-Frame` `WebRTC` `HTML` `CSS` `Git` 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/A--Frame-111111?style=for-the-badge&logo=aframe&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-111111?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
+</p>
 
 
 
